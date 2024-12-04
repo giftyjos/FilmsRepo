@@ -1,0 +1,4 @@
+name-chicken biriyani
+ingredients-rice-1kg
+           chicken-2kg
+           
